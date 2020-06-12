@@ -1,31 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9dd4df4d-b530-4c45-9711-d9ef4b4808c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ParsingValuesFromString/ParsingValuesFromString.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlourPackproblem/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FlourPackproblem/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FlourPackproblem/out/production/FlourPackproblem/FlourPacker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FlourPackproblem/out/production/FlourPackproblem/FlourPacker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LargestPrime/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LargestPrime/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LargestPrime/src/LargestPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LargestPrime/src/LargestPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LargestPrime/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LargestPrime/src/Main.java" afterDir="false" />
+    <list default="true" id="4747c45c-4f7c-4466-9f16-5f5083f91561" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternPracticeTriangle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternPracticeTriangle/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternPracticeTriangle/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternPracticeTriangle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternPracticeTriangle/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternPracticeTriangle/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternPracticeTriangle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternPracticeTriangle/PatternPractice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternPracticeTriangle/out/production/PatternPractice/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PatternPracticeTriangle/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternPracticeTriangle/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-class.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="$PROJECT_DIR$/.idea" />
-      </set>
-    </option>
+  <component name="ProjectId" id="1dCc3IJu3OPFBSgRYPKuzQmGUSp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectId" id="1dCXFrdmDglZ88evnxbYf3daVFg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,9 +45,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="PatternPractice" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -68,30 +76,42 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9dd4df4d-b530-4c45-9711-d9ef4b4808c3" name="Default Changelist" comment="" />
-      <created>1591929947543</created>
+      <changelist id="4747c45c-4f7c-4466-9f16-5f5083f91561" name="Default Changelist" comment="" />
+      <created>1591932314155</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1591929947543</updated>
+      <updated>1591932314155</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1360" height="251" key="GridCell.Tab.0.bottom" timestamp="1591931623799">
+    <state x="1318" y="353" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591935794443">
       <screen x="0" y="23" width="2560" height="1342" />
     </state>
-    <state width="1360" height="251" key="GridCell.Tab.0.bottom/0.23.2560.1342@0.23.2560.1342" timestamp="1591931623799" />
-    <state width="1360" height="251" key="GridCell.Tab.0.center" timestamp="1591931623798">
+    <state x="1318" y="353" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1342@0.23.2560.1342" timestamp="1591935794443" />
+    <state x="1528" y="447" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591935779653">
       <screen x="0" y="23" width="2560" height="1342" />
     </state>
-    <state width="1360" height="251" key="GridCell.Tab.0.center/0.23.2560.1342@0.23.2560.1342" timestamp="1591931623798" />
-    <state width="1360" height="251" key="GridCell.Tab.0.left" timestamp="1591931623798">
+    <state x="1528" y="447" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.2560.1342@0.23.2560.1342" timestamp="1591935779653" />
+    <state x="444" y="123" width="2016" height="1142" key="DiffContextDialog" timestamp="1591937722907">
       <screen x="0" y="23" width="2560" height="1342" />
     </state>
-    <state width="1360" height="251" key="GridCell.Tab.0.left/0.23.2560.1342@0.23.2560.1342" timestamp="1591931623798" />
-    <state width="1360" height="251" key="GridCell.Tab.0.right" timestamp="1591931623799">
+    <state x="444" y="123" width="2016" height="1142" key="DiffContextDialog/0.23.2560.1342@0.23.2560.1342" timestamp="1591937722907" />
+    <state width="1360" height="361" key="GridCell.Tab.0.bottom" timestamp="1591938270344">
       <screen x="0" y="23" width="2560" height="1342" />
     </state>
-    <state width="1360" height="251" key="GridCell.Tab.0.right/0.23.2560.1342@0.23.2560.1342" timestamp="1591931623799" />
+    <state width="1360" height="361" key="GridCell.Tab.0.bottom/0.23.2560.1342@0.23.2560.1342" timestamp="1591938270344" />
+    <state width="1360" height="361" key="GridCell.Tab.0.center" timestamp="1591938270344">
+      <screen x="0" y="23" width="2560" height="1342" />
+    </state>
+    <state width="1360" height="361" key="GridCell.Tab.0.center/0.23.2560.1342@0.23.2560.1342" timestamp="1591938270344" />
+    <state width="1360" height="361" key="GridCell.Tab.0.left" timestamp="1591938270344">
+      <screen x="0" y="23" width="2560" height="1342" />
+    </state>
+    <state width="1360" height="361" key="GridCell.Tab.0.left/0.23.2560.1342@0.23.2560.1342" timestamp="1591938270344" />
+    <state width="1360" height="361" key="GridCell.Tab.0.right" timestamp="1591938270344">
+      <screen x="0" y="23" width="2560" height="1342" />
+    </state>
+    <state width="1360" height="361" key="GridCell.Tab.0.right/0.23.2560.1342@0.23.2560.1342" timestamp="1591938270344" />
   </component>
 </project>
