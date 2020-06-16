@@ -6,28 +6,47 @@ public class ReadingUserInputChallenge {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        int counter = 0; // count valid nums
+        int sum = 0; // sum of valid nums
 
+        while (true) { // loop until read 10 nums user has entered
+            // while (true) loop is a loop that never ends
+            // to break out of loop, use break;
 
+            int order = counter + 1;
+            System.out.println("Enter number #" + order + ":");
 
-
-            boolean hasNextInt = scanner.hasNextInt();
-
-            if (hasNextInt) {
-                for (int i = 1; i < 10; i++) {
-
-                    int num = scanner.nextInt();
+            boolean isAnInt = scanner.hasNextInt(); // hasNextInt(); will check if user has
+                                                    // entered a number into the console
+            if (isAnInt) {
+                int number = scanner.nextInt();
+                counter++;
+                sum += number;
+                if (counter == 10) { // checks for when counter == 10 and to break out of loop
+                    break; // breaks out of while loop
                 }
+            } else {
+                System.out.println("Invalid Number");
             }
-            else {
-                System.out.println("invalid value");
-
-//                System.out.println("the number entered is " + num);
-            }
-
-
+            scanner.nextLine(); // handle end of line (when enter key is pressed)
+        }
+        System.out.println("sum = " + sum);
         scanner.close();
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // -Read 10 numbers from the console entered by the user and print the sum of those numbers.
 //-Create a Scanner like we did in the previous video.
@@ -43,4 +62,24 @@ public class ReadingUserInputChallenge {
 //-Use a counter variable for counting valid numbers.
 //-Close the scanner after you don't need it anymore.
 //-Create a project with the name ReadingUserInputChallenge.
+
+
+
+// MY ATTEMPT
+//            boolean hasNextInt = scanner.hasNextInt();
+//
+//            if (hasNextInt) {
+//                for (int i = 1; i < 10; i++) {
+//
+//                    int num = scanner.nextInt();
+//                }
+//            }
+//            else {
+//                System.out.println("invalid value");
+//
+////                System.out.println("the number entered is " + num);
+//            }
+//
+//
+
 
