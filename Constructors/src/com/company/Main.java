@@ -16,15 +16,19 @@ public class Main {
 
 	    Account bobsAccount = new Account(); //"12345", 0.00, "Bob B",
 				//"myemail@email.com", "909-909-9090");
-		System.out.println(bobsAccount.getNumber());
-		System.out.println(bobsAccount.getBalance());
-
-	    bobsAccount.withdrawal(100.0);
-
-	    bobsAccount.deposit(50.0);
-	    bobsAccount.withdrawal(100.0);
-
-	    bobsAccount.deposit(51.0);
-	    bobsAccount.withdrawal(100.0);
+//		System.out.println(bobsAccount.getNumber());
+//		System.out.println(bobsAccount.getBalance());
+//
+//	    bobsAccount.withdrawal(100.0);
+//
+//	    bobsAccount.deposit(50.0);
+//	    bobsAccount.withdrawal(100.0);
+//
+//	    bobsAccount.deposit(51.0);
+//	    bobsAccount.withdrawal(100.0);
+//
+//	    Account timsAccount = new Account("tim", "tim@email.com",
+//				"12222");
+//		System.out.println(timsAccount.getNumber() + " name " + timsAccount.getCustomerName());
     }
 }
