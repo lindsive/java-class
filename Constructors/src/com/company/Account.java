@@ -7,12 +7,14 @@ public class Account {
     private String customerEmailAddress;
     private String customerPhoneNumber;
 
+    // default constructor
     public Account() {
         this("56789", 2.50, "default name",
                 "default address", "default phone number");
         System.out.println("empty constructor called");
     }
 
+    // major constructor - updates all fields
     public Account(String number, double balance, String customerName, String customerEmailAddress,
                    String customerPhoneNumber) {
         System.out.println("account constructor w params called");
@@ -21,6 +23,14 @@ public class Account {
         this.customerName = customerName;
         this.customerEmailAddress = customerEmailAddress;
         this.customerPhoneNumber = customerPhoneNumber;
+    }
+
+    // lets say we only want to set 2 default params: number and balance
+    // the rest (customerName, customerEmailAddress, and customerPhoneNumber) are going to
+    // have values passed through
+    public Account(String customerName, String customerEmailAddress, String customerPhoneNumber) {
+        this("99999", 100.55, customerName,
+                customerEmailAddress, customerPhoneNumber);
     }
 
     //methods
