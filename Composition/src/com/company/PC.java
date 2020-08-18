@@ -13,12 +13,24 @@ public class PC {
     }
 
     public void powerUp() {
-        theCase.pressPowerButton();
+        getTheCase().pressPowerButton();
         drawLogo();
     }
 
     private void drawLogo() {
         // graphics
         monitor.drawPixelAt(1200, 50, "yellow");
+    }
+
+    private Case getTheCase() {
+        return theCase;
+    }
+
+    private Monitor getMonitor() {
+        return monitor;
+    }
+
+    private Motherboard getMotherboard() {
+        return motherboard;
     }
 }

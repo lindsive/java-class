@@ -15,5 +15,9 @@ public class Main {
 
 	    PC thePC = new PC(theCase, theMonitor, theMotherboard);
 	    thePC.powerUp();
+	    // using getter
+	    // thePC.getMonitor().getPixelAt(2500, 21200, "red");
+        // thePC.getMotherboard().loadProgram("windows 1.0");
+        // thePC.getTheCase().pressPowerButton
     }
 }
