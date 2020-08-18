@@ -3,3 +3,5 @@
 Udemy course dedicated to learning core Java skills & knowledge and earning Java cerification.
 
 This repo contains all projects done during the class along with tutorials through other sources such as YouTube.
+
+These projects are notes from coding along with the instructor and challenges completed.
